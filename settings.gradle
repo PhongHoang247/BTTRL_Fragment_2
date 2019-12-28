@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='BTTRL_Fragment_2'
